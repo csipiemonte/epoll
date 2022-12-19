@@ -1,0 +1,24 @@
+aspectj.org:org.aspectj.weaver,1.7.2
+Apache Software Foundation:Jakarta Commons Logging,1.1.1
+Apache Software Foundation:CGlib,2.2.2
+MetaStuff Ltd:org.dom4j,1.6.1
+hibernate.org:Hibernate Commons Annotations,4.0.1
+hibernate.org:Hibernate Core,4.1.3.Final-redhat-1
+hibernate.org:Hibernate Entity Manager,4.1.3.Final-redhat-1
+hibernate.org:org.hibernate.javax.persistence,1.0.1.Final-redhat-1
+JBoss by Red Hat:Hibernate Validator,4.2.0.Final-redhat-1
+SpringSource:Spring AOP,3.1.1.RELEASE
+SpringSource:Spring ASM,3.1.1.RELEASE
+SpringSource:Spring Beans,3.1.1.RELEASE
+SpringSource:Spring Context,3.1.1.RELEASE
+SpringSource:Spring Context Support,3.1.1.RELEASE
+SpringSource:Spring Core,3.1.1.RELEASE
+SpringSource:Spring Data Commons Core,3.1.1.RELEASE
+SpringSource:spring-data-jpa,1.2.0.RELEASE
+SpringSource:Spring Expression Language,3.1.1.RELEASE
+SpringSource:Spring JDBC,3.1.1.RELEASE
+SpringSource:Spring ORM,3.1.1.RELEASE
+SpringSource:Spring Test,3.1.1.RELEASE
+SpringSource:Spring Transaction,3.1.1.RELEASE
+SpringSource:Spring Web,3.1.1.RELEASE
+CSI Piemonte:util-perf,1.0.0
